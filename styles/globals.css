@@ -53,3 +53,9 @@ body {
   background-color: darkgrey;
   color: white;
 }
+
+#quote {
+  margin-top: 80px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
